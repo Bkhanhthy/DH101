@@ -9,4 +9,4 @@ I have tried to make it accessible by:
 - Ensuring sufficient color contrast for readability using the WebAIM Contrast Checker  
 - Writing descriptive link text instead of using vague phrases like “click here”  
 
-If you encounter any barriers, please contact me at [your email].
+If you encounter any barriers, please contact me at bui_k1@denison.edu
