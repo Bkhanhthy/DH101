@@ -2,8 +2,9 @@
 
 ## The Artifact
 
-![AI Supply Chain Network](../assets/AI%20Map.jpeg)
-https://embed.kumu.io/876a9150196a60570cb17fcced850534
+![Network visualization showing AI supply chain from mining and labor to manufacturing, big tech companies, and data centers](../assets/AI%20Map.jpeg)
+
+[View the interactive AI supply chain network on Kumu](https://embed.kumu.io/876a9150196a60570cb17fcced850534)
 
 
 ## Network Analysis 
@@ -38,6 +39,8 @@ One key insight from my network is how power is concentrated in a few central ac
 I also noticed that my network simplifies a much more complex reality. For example, it does not fully capture environmental impacts, political influences, or inequalities in labor conditions. These omissions show how networks can obscure important aspects of a system.
 
 Overall, this process changed how I think about data and visualization. Instead of seeing networks as objective, I now understand them as selective representations that reflect certain perspectives. This project made me more aware of how design choices shape meaning and how visualization can both reveal and hide power.
+
+If you encounter any barriers, please contact me at [your email].
 
 ## Attribution & AI Use
 - Tools used:
